@@ -388,6 +388,14 @@
         "GREEN_360": "#689d6a",
         "WHITE_500": "#ffede9",
         "YELLOW_300": "#d7992173"
+        "background": {
+        "url": "https://mfiles.alphacoders.com/992/992268.jpg",
+        "alpha": 0.63
+    },
+        "background": {
+        "url": "https://mfiles.alphacoders.com/992/992268.jpg",
+        "alpha": 0.63
+    },
     },
     "plus": {
         "version": 0,
