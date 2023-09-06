@@ -333,8 +333,8 @@
             "#feb4a9"
         ],
         "TEXT_NORMAL": [
-            "#ffede9",
-            "#ffede9"
+            "#f01f42",
+            "#f01f42"
         ],
         "TEXT_POSITIVE": [
             "#cc241d",
@@ -390,7 +390,7 @@
         "YELLOW_300": "#d7992173"
     },
     "background": {
-        "url": "https://cdn.discordapp.com/attachments/1140028556190167134/1149055324775526411/IMG_20230906_205456.jpg",
+        "url": "https://mfiles.alphacoders.com/992/992268.jpg",
         "alpha": 0.63
     },
     "plus": {
