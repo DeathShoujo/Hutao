@@ -388,9 +388,6 @@
         "GREEN_360": "#689d6a",
         "WHITE_500": "#ffede9",
         "YELLOW_300": "#d7992173"
-        "background": {
-        "url": "https://cdn.discordapp.com/attachments/1140028556190167134/1149055324775526411/IMG_20230906_205456.jpg",
-        "alpha": 0.63
     },
     "plus": {
         "version": 0,
